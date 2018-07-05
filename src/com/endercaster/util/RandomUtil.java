@@ -1,4 +1,4 @@
-package com.endercaster.util.Random;
+package com.endercaster.util;
 
 import java.util.HashMap;
 import java.util.Random;
